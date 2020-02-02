@@ -5,7 +5,7 @@ import asyncio
 import os
 
 BOT_PREFIX = "e!"
-BOT_TOKEN = os.environ.get('EMBA_BOT_TOKEN')
+BOT_TOKEN = os.environ.get('NjczMzEyODUzOTE4MzUxMzY2.XjYyvQ.f8myW0pXawur4qaRifaIiOhHHo4')
 
 current_announcement = {} # current announcement sent | Key: server id, Value: embedded object
 announcement_channel = {} # channel to send announcements to | Key: server id, Value: channel
